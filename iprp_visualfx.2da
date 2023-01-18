@@ -1,0 +1,19 @@
+2DA V2.0
+
+   Label      Name     ModelSuffix 
+0  Acid       83393    acid        
+1  Cold       83394    frost       
+2  Electrical 83395    elect       
+3  Fire       83396    fire        
+4  Sonic      83397    sonic       
+5  Holy       83398    holy        
+6  Evil       83399    neg         
+7  Magical    62487    magical     
+8  Mind       16821127 mind        
+9  Shadow     2116     shadow      
+10 Reserved1  1045     ****        
+11 Reserved2  1046     ****        
+12 Reserved3  1047     ****        
+13 Reserved4  1048     ****        
+14 Reserved5  1049     ****        
+15 None       202      ****        
